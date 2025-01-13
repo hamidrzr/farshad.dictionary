@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/farshad.dictionary/static/css/main.df6fb65b.css",
+    "main.js": "/farshad.dictionary/static/js/main.fb323bb3.js",
+    "index.html": "/farshad.dictionary/index.html",
+    "main.df6fb65b.css.map": "/farshad.dictionary/static/css/main.df6fb65b.css.map",
+    "main.fb323bb3.js.map": "/farshad.dictionary/static/js/main.fb323bb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6fb65b.css",
+    "static/js/main.fb323bb3.js"
+  ]
+}
